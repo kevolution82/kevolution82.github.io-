@@ -7,7 +7,7 @@ About Me
 I have experience with HTML, CSS, JavaScript, React, Node.js, Git and GitHub, and some MySQL. I want to work as a software developer, especially with projects that support the entertainment industry and, of course, creative people.
 
 Resume and Achievements
-[Download Resume (PDF)](https://kevolution82.github.io-/launchcode-resume-2025.pdf)
+[Download Resume (PDF)](launchcode-resume-2025.pdf)
 
 Festival Director for the Always Late TV Movie Awards
 Filmmaker for 13 years
