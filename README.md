@@ -19,10 +19,10 @@ Name: HNCH
 Description: A web app that makes it easy for villains to hire goons.
 [Click to view project.](https://hnch-app.netlify.app/)
 
-![HNCH Screenshot #1](HNCH-1.png)
-![HNCH Screenshot #2](HNCH-2.png)
-![HNCH Screenshot #3](HNCH-3.png)
-![HNCH Screenshot #4](HNCH-5.png)
+![HNCH Screenshot #1](hnch-1.png)
+![HNCH Screenshot #2](hnch-2.png)
+![HNCH Screenshot #3](hnch-3.png)
+![HNCH Screenshot #4](hnch-5.png)
 
 Contact
 [Email Me](mailto:alwayslatetv@yahoo.com)
